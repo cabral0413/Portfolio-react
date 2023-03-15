@@ -35,7 +35,7 @@ export default function AboutMe() {
             <Col className="d-flex flex-column text-center">
               <Container>
                 <p>{bio}</p>
-                {moreInfo && <p>{moreInfo}</p>}
+                {moreInfo && <p>I am an energetic, ambitious and hardworking undergraduate student of University of Sri Jayawardenepura. I love learning about technology and helping others use it to improve their lives and be more productive.</p>}
               </Container>
             </Col>
             <Col className="d-none d-md-block text-center">
